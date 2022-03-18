@@ -1,4 +1,4 @@
-### Sudoku Project Assignment  
+### Sudoku
 Main.java - Main Client file
 SudokuPuzzle.java - Function file
 
