@@ -2,7 +2,7 @@
 *****************************************************************************
 ### Sudoku  
 
-Main.java - Main Client file
+Main.java - Main Client file  
 SudokuPuzzle.java - Function file
 
 How the program works:
@@ -12,6 +12,6 @@ The program will automatically exit in these cases:
 -If the user has a duplicate number which violates the rules of a sudoku puzzle
 
 ### Towers  
-Towers.java - Function + Client file
+Towers.java - Function + Client file  
 
 Class Assignment: Runs a recursive function for the Towers of Hanoi Game
